@@ -26,27 +26,6 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
         height={150}
       />
     </div>
-<div>
-      <Image
-        src="/微信图片_20250714180944.jpg " 
-        width={200}
-        height={150}
-      />
-    </div>
-<div>
-      <Image
-        src="/微信图片_20250714180943.jpg" 
-        width={200}
-        height={150}
-      />
-    </div>
-<div>
-      <Image
-        src="/微信图片_20250714180939.jpg" 
-        width={200}
-        height={150}
-      />
-    </div>
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
